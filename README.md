@@ -131,7 +131,7 @@ python -m spacy download en_core_web_sm
 
 ## 📌 Author
 
-Amit Kumar Singh
+Amit Kumar Singh Kurmi
 
 ---
 
