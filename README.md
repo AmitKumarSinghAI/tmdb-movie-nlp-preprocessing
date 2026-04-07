@@ -135,6 +135,3 @@ Amit Kumar Singh Kurmi
 
 ---
 
-## ⭐ If you like this project
-
-Give it a star ⭐ on GitHub!
