@@ -103,7 +103,12 @@ Data is fetched dynamically using TMDB API:
 
 ---
 
+## 📦 Installation
 
+```bash
+pip install pandas requests nltk spacy scikit-learn
+python -m spacy download en_core_web_sm
+```
 
 ---
 
